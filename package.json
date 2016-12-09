@@ -1,0 +1,26 @@
+{
+    "author": "wong.edrick@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "nehal",
+    "pebble": {
+        "displayName": "Nehal",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "171b1452-3a76-4fc4-bf2e-60003a4a249f",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
